@@ -59,5 +59,5 @@ enter your email:
 ```
 i recommend you create a account when using this tool
 and if you are using gmail create it and add no verification to the email and enable less secure apps
-go to this link to see how to enable less secure apps <a>https://hotter.io/docs/email-accounts/secure-app-gmail/</a>
+go to this link to see how to enable less secure apps https://hotter.io/docs/email-accounts/secure-app-gmail/
 ```
