@@ -65,5 +65,6 @@ go to this link below on how to enable less secure apps
 ```
 Plain link
 https://hotter.io/docs/email-accounts/secure-app-gmail/
+<br>
 A tag link
 <a href=https://hotter.io/docs/email-accounts/secure-app-gmail/>enable less secure apps</a>
